@@ -19,3 +19,23 @@
 
 # Go workspace file
 go.work
+
+
+.envrc
+/dist
+/CHANGELOG.md
+
+# VS Code
+.vscode
+
+# IntelliJ
+.idea
+
+# macOS
+.DS_Store
+
+# vim
+*.swp
+
+vendor/
+
